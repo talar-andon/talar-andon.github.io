@@ -63,3 +63,11 @@ html {
 .grow2:hover + .bubble2 {
     display: block;
   }
+
+  p {
+      text-align: center;
+      font-family: 'Atma', cursive;
+      font-size: 30px;
+      transform: translateY(-10px);
+      color: #7b3f00;
+  }
